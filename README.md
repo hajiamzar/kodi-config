@@ -1,6 +1,6 @@
 # Konfigurasi Kodi Amzar
 
-Letak file addons, media, dan system pada direktori berkenaan:
+Letak file addons, dan media, pada direktori berkenaan:
 
 Linux: ~/.kodi/
 
