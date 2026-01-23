@@ -6,6 +6,4 @@ Linux: ~/.kodi/
 
 Windows: C:\AppData\Roaming\kodi\
 
-## Sumbangan
 
-https://hajiamzar.com/sumbangan/
